@@ -17,3 +17,5 @@ ___
 [3주차]: https://github.com/ghyeon0/KOSS/tree/master/week3
 
 [Link]: https://github.com/ghyeon0/KOSS/tree/master/ubuntu
+
+[Gdrive]: https://drive.google.com/open?id=1_MWAo0QWbtb32Ih0fluN2qLVeLxNuIM_
