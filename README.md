@@ -1,3 +1,4 @@
+****dormancy**** ~~이미 싸늘한 Repository 입니다.~~
 # KOSS
 
 파일 다운로드는 git clone 혹은 [Gdrive]를 사용하세요.  
